@@ -1,3 +1,5 @@
 test markdown file
 
-testing pull from git
+changes to test interactive staging
+
+interactive staginng changes 2
